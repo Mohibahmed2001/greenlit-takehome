@@ -1,4 +1,7 @@
 # greenlit-takehome
+
+Still work in progress. Need to fix main file.
+
 Will be using ElephantSQL.
 http://127.0.0.1:8000/items/5?q=somequery
 http://127.0.0.1:8000/docs#/
